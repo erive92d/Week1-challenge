@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* replaced with header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* replaced with anchor */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* replaced div with p */
 .background-image {
     height: 800px;
     width: 100%;
@@ -71,12 +74,14 @@ p {
     margin-left: 25px;
 }
 
+/* replaced with article */
 article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* replaced with aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -88,11 +93,13 @@ aside {
     background-color: #2589bd;
 }
 
+/* replaced with class benefits */
 .benefits{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* replaced with class names */
 .names {
     margin-bottom: 10px;
     text-align: center;
@@ -106,7 +113,7 @@ aside img {
 }
 
 
-
+/* added class skills to the img */
 .skills {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,7 +135,7 @@ article img {
 }
 
 
-
+/* replaced with footer */
 footer {
     padding: 30px;
     clear: both;
